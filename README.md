@@ -1,5 +1,3 @@
-Workshop on generative methods held at STS CH 2025 conference
-
 Dear colleagues,
 
 We invite contributions to our workshop on "generative methods" taking place during the STS-CH 2025 conference in Zurich from 10. - 12.09.
