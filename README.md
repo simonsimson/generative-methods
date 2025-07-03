@@ -1,6 +1,6 @@
 Dear colleagues,
 
-We invite contributions to our workshop on "generative methods" taking place during the STS-CH 2025 conference in Zurich from 10. - 12.09.
+We invite contributions to our workshop on "generative methods: investigating the use of generative artificial intelligence for the social study of science and technology" taking place during the STS-CH 2025 conference in Zurich from 10. - 12.09.
 \
 Deadline: 9 May, Submission details can be found via https://sts-ch.org/sts-ch-2025/
 \
