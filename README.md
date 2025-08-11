@@ -4,6 +4,7 @@ Join us for our workshop on "generative methods: investigating the use of genera
 Deadline: 9 May, Submission details can be found via https://sts-ch.org/sts-ch-2025/
 
 \\
+
 # Workshop abstract
 STS scholars have highlighted the inventive (Wakeford and Lury 2014), multifarious (Marres 2017), political and often messy (Law 2004; 2006) character of scientific methods and instruments. Acknowledging Latour’s (2004) consideration that critique has run out of steam, STS embraces a non-representational approach to methods which enact scientific realities (Licoppe 2010).
 
