@@ -1,5 +1,5 @@
 # Dear colleagues
-Join us for our workshop on "generative methods: investigating the use of generative artificial intelligence for the social study of science and technology" taking place in Zurich on Thursday during the STS-CH 2025 conference in Zurich from 10. - 12.09.!\
+Join us for our workshop on "generative methods: investigating the use of generative artificial intelligence for the social study of science and technology" taking place in Zurich on Thursday,  during the STS-CH 2025 conference in Zurich from 10. - 12.09.!\
 Deadline: 9 May, Submission details can be found via https://sts-ch.org/sts-ch-2025/\
 
 # Workshop abstract
@@ -9,4 +9,8 @@ With this in mind, how might we situate the advent of GenAI (Generative AI) in t
 
 Drawing on Preda’s work on the role of the stock ticker as generator of financial markets (2006), we could evaluate if and how GenAI serves as a generative method for STS in the sense that it reconfigures scientific temporalities, agencies and assemblages. And last but not least, we also want to examine how we can ensure to hold things together in this potentially fluid and unstable course of action - at least as far as we want to. We invite participants to report, debate and experiment with directions involving GenAI to generate new research questions, objects, actors, data, tools and insights.
 
+# Contributions
 
+## Jana Hecktor
+
+## Lisa Koeritz
