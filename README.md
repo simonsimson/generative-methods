@@ -1,6 +1,6 @@
 # Dear colleagues
-Join us for our workshop on "generative methods: investigating the use of generative artificial intelligence for the social study of science and technology" taking place in Zurich on Thursday,  during the STS-CH 2025 conference in Zurich from 10. - 12.09.!\
-Deadline: 9 May, Submission details can be found via https://sts-ch.org/sts-ch-2025/\
+Join us for our workshop on "generative methods: investigating the use of generative artificial intelligence for the social study of science and technology" taking place in Zurich on Thursday, 11. September 14h30 - 16h00, during the STS-CH 2025 conference!\
+More info on the conference can be found on https://sts-ch.org/sts-ch-2025/\
 
 # Workshop abstract
 STS scholars have highlighted the inventive (Wakeford and Lury 2014), multifarious (Marres 2017), political and often messy (Law 2004; 2006) character of scientific methods and instruments. Acknowledging Latour’s (2004) consideration that critique has run out of steam, STS embraces a non-representational approach to methods which enact scientific realities (Licoppe 2010).
