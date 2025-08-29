@@ -7,6 +7,5 @@ description: Workshop at STS-CH Conference 2025, Zurich, Switzerland
 sass:
   style: compressed
 
-baseurl: ""       # empty for GitHub Pages user/organization site
 include:
   - assets

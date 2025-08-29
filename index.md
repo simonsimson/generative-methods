@@ -32,7 +32,7 @@ Drawing on Preda’s work on the role of the stock ticker as generator of financ
 ## Contributions
 
 ### Prompted Possibilities:  Integrating Generative Models into Participatory Scenario Design
-<img src="/assets/img/csm_Jana_Hecktor.jpg" alt="Jana Hecktor" style="width:130px; height: 130px; object-fit: cover; float:left; margin-right:1rem; border-radius:50%;">
+<img src="{{ '/assets/img/csm_Jana_Hecktor.jpg' | relative_url }}" alt="Jana Hecktor" style="width:130px; height: 130px; object-fit: cover; float:left; margin-right:1rem; border-radius:50%;">
 **Jana Hecktor**  
 IZEW, University of Tübingen
 
@@ -48,7 +48,7 @@ Of course, one has to keep in mind the general critiques of generative AI, begin
 ---
 
 ### “AI Ethics Navigator" - Navigating the intricate landscape of ethical guidelines
-<img src="/assets/img/csm_Lisa_Koeritz.jpg" alt="Speaker 2" style="width:130px; height: 130px; object-fit: cover; float:left; margin-right:1rem; border-radius:50%;">
+<img src="{{ '/assets/img/csm_Lisa_Koeritz.jpg' | relative_url }}"  alt="Speaker 2" style="width:130px; height: 130px; object-fit: cover; float:left; margin-right:1rem; border-radius:50%;">
 **Lisa Koeritz**  
 *IZEW, University of Tübingen*
 
@@ -76,17 +76,17 @@ Participants are invited to engage in a critical dialogue about the implications
 <div style="display:flex; gap:2rem; flex-wrap:wrap;">
 
 <div style="text-align:center;">
-  <img src="/assets/img/csm_Simon_Hirsbrunner.jpg" alt="Organizer 1" style="width:130px; height: 130px; object-fit: cover; float:left; margin-right:1rem; border-radius:50%;"><br>
+  <img src="{{ '/assets/img/csm_Simon_Hirsbrunner.jpg' | relative_url }}"  alt="Organizer 1" style="width:130px; height: 130px; object-fit: cover; float:left; margin-right:1rem; border-radius:50%;"><br>
   <b>Dr. Simon Hirsbrunner</b>
 </div>
 
 <div style="text-align:center;">
-  <img src="/assets/img/csm_Jana_Hecktor.jpg" alt="Organizer 2" style="width:130px; height: 130px; object-fit: cover; float:left; margin-right:1rem; border-radius:50%;"><br>
+  <img src="{{ '/assets/img/csm_Jana_Hecktor.jpg' | relative_url }}"  alt="Organizer 2" style="width:130px; height: 130px; object-fit: cover; float:left; margin-right:1rem; border-radius:50%;"><br>
   <b>Jana Hecktor</b>
 </div>
 
 <div style="text-align:center;">
-  <img src="/assets/img/csm_Lisa_Koeritz.jpg" alt="Organizer 2" style="width:130px; height: 130px; object-fit: cover; float:left; margin-right:1rem; border-radius:50%;"><br>
+  <img src="{{ '/assets/img/csm_Lisa_Koeritz.jpg' | relative_url }}" alt="Organizer 3" style="width:130px; height: 130px; object-fit: cover; float:left; margin-right:1rem; border-radius:50%;"><br>
   <b>Lisa Koeritz</b>
 </div>
 
