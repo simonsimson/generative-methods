@@ -80,12 +80,12 @@ Participants are invited to engage in a critical dialogue about the implications
 
 <div style="text-align:center;">
   <img src="{{ '/assets/img/csm_Jana_Hecktor.jpg' | relative_url }}"  alt="Organizer 2" style="width:130px; height: 130px; object-fit: cover; float:left; margin-right:1rem; border-radius:50%;"><br>
-  <a href="https://uni-tuebingen.de/en/258344" target="_blank"><strong>Dr. Jana Hecktor</strong></a>
+  <a href="https://uni-tuebingen.de/en/258344" target="_blank"><strong> Jana Hecktor</strong></a>
 </div>
 
 <div style="text-align:center;">
   <img src="{{ '/assets/img/csm_Lisa_Koeritz.jpg' | relative_url }}" alt="Organizer 3" style="width:130px; height: 130px; object-fit: cover; float:left; margin-right:1rem; border-radius:50%;"><br>
-  <a href="https://uni-tuebingen.de/en/258689" target="_blank"><strong>Dr. Lisa Koeritz</strong></a>
+  <a href="https://uni-tuebingen.de/en/258689" target="_blank"><strong> Lisa Koeritz</strong></a>
 </div>
 
 </div>
