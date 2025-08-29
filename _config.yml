@@ -1,3 +1,5 @@
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme
+title: Generative Methods
+description: Workshop on generative methods for the social study of science and technology held at STS-CH 2025 conference
