@@ -2,11 +2,9 @@
 layout: default
 title: "Generative Methods @ STS-CH Conference 2025"
 ---
-# Workshop Generative Methods
+# Investigating the Use of Generative AI for the Social Study of Science and Technology
 ---
-**11. September 2025 · 14h30 - 16h00 · STS-CH Conference**  
-**Topic:** Investigating the Use of Generative Artificial Intelligence for the Social Study of Science and Technology
-
+**11. September 2025 · 14h30 - 16h00 · STS-CH Conference, Zurich, Switzerland**  
 <!-- [Mehr Information](/info){: .btn } -->
 
 <!-- Headerbild -->
@@ -77,17 +75,17 @@ Participants are invited to engage in a critical dialogue about the implications
 
 <div style="text-align:center;">
   <img src="{{ '/assets/img/csm_Simon_Hirsbrunner.jpg' | relative_url }}"  alt="Organizer 1" style="width:130px; height: 130px; object-fit: cover; float:left; margin-right:1rem; border-radius:50%;"><br>
-  <b>Dr. Simon Hirsbrunner</b>
+  <a href="https://uni-tuebingen.de/en/221247" target="_blank"><strong>Dr. Simon Hirsbrunner</strong></a>
 </div>
 
 <div style="text-align:center;">
   <img src="{{ '/assets/img/csm_Jana_Hecktor.jpg' | relative_url }}"  alt="Organizer 2" style="width:130px; height: 130px; object-fit: cover; float:left; margin-right:1rem; border-radius:50%;"><br>
-  <b>Jana Hecktor</b>
+  <a href="https://uni-tuebingen.de/en/258344" target="_blank"><strong>Dr. Jana Hecktor</strong></a>
 </div>
 
 <div style="text-align:center;">
   <img src="{{ '/assets/img/csm_Lisa_Koeritz.jpg' | relative_url }}" alt="Organizer 3" style="width:130px; height: 130px; object-fit: cover; float:left; margin-right:1rem; border-radius:50%;"><br>
-  <b>Lisa Koeritz</b>
+  <a href="https://uni-tuebingen.de/en/258689" target="_blank"><strong>Dr. Lisa Koeritz</strong></a>
 </div>
 
 </div>
