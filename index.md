@@ -32,7 +32,9 @@ Drawing on Preda’s work on the role of the stock ticker as generator of financ
 ### Prompted Possibilities:  Integrating Generative Models into Participatory Scenario Design
 <img src="{{ '/assets/img/csm_Jana_Hecktor.jpg' | relative_url }}" alt="Jana Hecktor" style="width:130px; height: 130px; object-fit: cover; float:left; margin-right:1rem; border-radius:50%;">
 **Jana Hecktor**  
-IZEW, University of Tübingen
+*International Center for Ethics in the Sciences and Humanities (IZEW), University of Tübingen*
+
+Jana Hecktor studied media studies in Düsseldorf and Bochum and was subsequently a doctoral student at the Bochum graduate programme "The Documentary". In her research, she takes a critical approach to machine (learning) systems, data processing, prediction processes based on them and the associated social application contexts. At the IZEW, she is working in a project that researches privacy-sensitive data driven business models.
 
 **Abstract:**  
 Generative AI is at the forefront of the current hype around Artificial Intelligence. It’s capacity to create content – from images and videos to its most prominent output: text – not only sparked debate about humans unique selling point of being able to create ⁄meaningful/ content but lead to an ubiquitary use of these systems in heterogenous discourse fields. Research on the one hand started to analyze the influence and consequences these systems have (for areas as education, the creative industry, for vulnerable groups in general etc.). On the other hand, generative AI has also become a tool used within research processes. Many discussions sparked around if and how such a usage should be marked, made transparent, be regulated or forbidden due to commonly known risks (e.g. privacy and copyright issues). But it has also been acknowledged how productive and helpful these systems might be – if used consciously and with the right amount of knowledge and literacy. 
@@ -48,9 +50,9 @@ Of course, one has to keep in mind the general critiques of generative AI, begin
 ### “AI Ethics Navigator" - Navigating the intricate landscape of ethical guidelines
 <img src="{{ '/assets/img/csm_Lisa_Koeritz.jpg' | relative_url }}"  alt="Speaker 2" style="width:130px; height: 130px; object-fit: cover; float:left; margin-right:1rem; border-radius:50%;">
 **Lisa Koeritz**  
-*IZEW, University of Tübingen*
+*International Center for Ethics in the Sciences and Humanities (IZEW), University of Tübingen*
 
-Lisa Koeritz works in an interdisciplinary research project at the International Center for Ethics in the Sciences and Humanities (IZEW) at the University of Tübingen. She researches the challenge of integrating ethical aspects in the technical development with and of AI systems. Previously, she studied Computer Science and Data Engineering in Berlin and Potsdam and worked as a data scientist in industry and policy.  
+Lisa Koeritz works in an interdisciplinary research project at the IZEW researching the challenge of integrating ethical aspects in the technical development with and of AI systems. Previously, she studied Computer Science and Data Engineering in Berlin and Potsdam and worked as a data scientist in industry and policy.  
 
 **Abstract:**  
 Interactions with generative AI, especially large language models such as GPT, Gemini or Claude, have become commonplace for many in daily life in recent years. Consequently, applying generative AI methods is currently being explored in research contexts as well.
