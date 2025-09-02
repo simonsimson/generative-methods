@@ -91,3 +91,6 @@ Participants are invited to engage in a critical dialogue about the implications
 </div>
 
 </div>
+
+#### Header image:
+Yutong Liu & Kingston School of Art  / https://betterimagesofai.org / https://creativecommons.org/licenses/by/4.0/
