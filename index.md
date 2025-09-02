@@ -1,10 +1,10 @@
----
+<img width="627" height="20" alt="image" src="https://github.com/user-attachments/assets/926198e5-28c5-4194-9729-baa684e857ad" />---
 layout: default
 title: "Generative Methods @ STS-CH Conference 2025"
 ---
 # Investigating the Use of Generative AI for the Social Study of Science and Technology
 ---
-**11. September 2025 · 14h30 - 16h00 · STS-CH Conference, Zurich, Switzerland**  
+**11 Sept 2025 ✨ 14h30 - 16h00 ✨ ETH HG D 3.3 ✨ STS-CH Conference ✨ Zurich, Switzerland**  
 <!-- [Mehr Information](/info){: .btn } -->
 
 <!-- Headerbild -->
